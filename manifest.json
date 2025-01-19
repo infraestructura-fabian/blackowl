@@ -4,7 +4,7 @@
   "short_name": "blackowl",
   "description": "Blackowl",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "/blackowl/",
   "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#027be3",
